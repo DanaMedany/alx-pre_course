@@ -1,2 +1,3 @@
 My second readme file
-this is second time updated
+write the git command line used
+
