@@ -1,3 +1,2 @@
 My second readme file
-write the git command line used hello
-
+write the git command line used
